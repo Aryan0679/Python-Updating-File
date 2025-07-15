@@ -14,7 +14,7 @@ Your task is to create an algorithm that uses Python code to check whether the a
 - The cleaned list is then written back to the file, replacing the old one.
 - Finally, it prints the updated allow list to the console for verification.
 
-## Skills Used
+## Skills
 
 - **Python Scripting for Access Control Automation**  
   Automating the cleanup of allowlists based on dynamic IP restrictions.
