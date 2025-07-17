@@ -16,11 +16,5 @@ Your task is to create an algorithm that uses Python code to check whether the a
 
 ## Skills
 
-- **Python Scripting for Access Control Automation**  
-  Automating the cleanup of allowlists based on dynamic IP restrictions.
+- Security task automation
 
-- **File Handling and Data Parsing**  
-  Reading, modifying, and rewriting structured access control data using Python.
-
-- **Logical Filtering and Conditional Logic**  
-  Identifying and removing unauthorized entries through list comparison and filtering.
